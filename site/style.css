@@ -1,0 +1,61 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #131313;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Anonymous Pro', monospace;
+    position: absolute;
+}
+
+.centered-square {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    max-width: 100vh;
+    max-height: 100vw;
+    margin: 0 auto;
+}
+
+#software-delivery-simulator {
+    position: absolute;
+    left: 6%;
+    right: 68%;
+    top: 61%;
+    bottom: 24%;
+}
+
+#future-one {
+    position: absolute;
+    left: 41%;
+    right: 37%;
+    top: 76%;
+    bottom: 3%;
+}
+
+#future-two {
+    position: absolute;
+    left: 72%;
+    right: 6%;
+    top: 58%;
+    bottom: 21%;
+}
+
+.in-development {
+    display: none;
+    position: relative;
+    width: 100%;
+    height: 16%;
+    margin: 84% auto 0% auto;
+    box-sizing: border-box;
+    background-color: #131313;
+    border: min(0.5vw, 0.5vh) solid #fff;
+    border-radius: min(1vw, 1vh);
+    color: #fff;
+    font-size: min(2.5vw, 2.5vh);
+    text-align: center;
+}

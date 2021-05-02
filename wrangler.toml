@@ -1,0 +1,9 @@
+name = "nodematiclabs"
+type = "webpack"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./site"
+entry-point = "workers-site"

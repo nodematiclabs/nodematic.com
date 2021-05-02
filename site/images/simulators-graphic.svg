@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="677.333mm" height="719.667mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 67733 71967"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:660.39;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:red;stroke-width:660.39;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Warstwa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2205972497264">
+   <line class="fil0 str0" x1="35107" y1="10475" x2="35107" y2= "59585" />
+   <line class="fil0 str0" x1="35107" y1="22572" x2="32287" y2= "22572" />
+   <circle class="fil0 str0" cx="31482" cy="22572" r="709"/>
+   <polyline class="fil0 str0" points="35104,35632 37637,35632 37637,42386 "/>
+   <circle class="fil0 str0" cx="37637" cy="43203" r="709"/>
+   <polyline class="fil0 str0" points="35107,28188 11469,28188 11469,45072"/>
+   <line class="fil0 str0" x1="15267" y1="28188" x2="15267" y2= "33254" />
+   <circle class="fil0 str0" cx="15267" cy="34058" r="709"/>
+   <polyline class="fil0 str0" points="35107,28188 58745,28188 58745,45072 "/>
+   <g>
+   <g>
+    <circle class="fil0 str1" cx="30781" cy="15171" r="709"/>
+    <polyline class="fil0 str1" points="30773,14383 30773,5022 38182,11240 38182,5022 "/>
+    <polyline class="fil0 str1" points="32023,14028 32023,7809 39433,14028 39433,4460 "/>
+    <circle class="fil0 str1" cx="39433" cy="3672" r="709"/>
+   </g>
+   <path class="fil0 str1" d="M7770 44572c9865,3 9864,9461 0,9458l0 -9458z"/>
+   <circle class="fil0 str1" cx="18241" cy="45923" r="913"/>
+    
+    <line class="fil0 str1" x1="17307" y1="45923" x2="13202" y2="45923" />
+    <polyline class="fil0 str1" points="7770,45923 4729,45923 4729,49301 7770,49301 "/>
+    <polyline class="fil0 str1" points="15168,49301 18208,49301 18208,52679 13138,52679"/>
+    <line class="fil0 str1" x1="7770" y1="52679" x2="5733" y2="52677"/>
+    <circle class="fil0 str1" cx="4734" cy="52678" r="913"/>
+   </g>
+   <g>
+    <path class="fil0 str0" d="M37943 62344l-1833 1833 367 -809 -2792 2792 -2291 -2291 2792 -2791 -812 367 1861 -1860c3347,-3335 5856,-4009 6311,-3553 456,455 -360,3080 -3603,6312z"/>
+    <polygon class="fil0 str0" points="36477,63368 33685,66160 33923,69003 "/>
+    <polygon class="fil0 str0" points="34186,61078 31394,63869 28551,63631 "/>
+    <g>
+     <polygon class="fil0 str0" points="31610,64086 31763,64239 31491,64803 31050,64362 "/>
+     <polygon class="fil0 str0" points="33297,65772 33450,65925 33178,66489 32736,66048 "/>
+    </g>
+    <polygon class="fil0 str0" points="31237,66317 32352,64827 32712,65187 "/>
+    <polygon class="fil0 str0" points="32454,64929 32607,65082 32334,65646 31893,65205 "/>
+    <line class="fil0 str0" x1="31858" y1="63494" x2="34104" y2= "65740" />
+   </g>
+   <g>
+    <path class="fil0 str0" d="M60192 49191l-1833 1832 367 -808 -2792 2792 -2291 -2291 2792 -2792 -812 368 1861 -1860c3347,-3336 5856,-4009 6311,-3553 456,455 -360,3080 -3603,6312z"/>
+    <polygon class="fil0 str0" points="58726,50215 55934,53007 56172,55850 "/>
+    <polygon class="fil0 str0" points="56435,47924 53643,50716 50800,50478 "/>
+    <g>
+     <polygon class="fil0 str0" points="53859,50932 54012,51085 53740,51650 53299,51208 "/>
+     <polygon class="fil0 str0" points="55546,52619 55699,52772 55427,53336 54985,52895 "/>
+    </g>
+    <polygon class="fil0 str0" points="53486,53163 54601,51674 54961,52034 "/>
+    <polygon class="fil0 str0" points="54703,51776 54856,51929 54583,52493 54142,52052 "/>
+    <line class="fil0 str0" x1="54107" y1="50341" x2="56353" y2= "52587" />
+   </g>
+  </g>
+ </g>
+</svg>
