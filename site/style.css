@@ -59,3 +59,21 @@ body {
     font-size: min(2.5vw, 2.5vh);
     text-align: center;
 }
+
+.not-found h1 {
+    font-size: min(5vw, 5vh);
+}
+
+.not-found p {
+    font-size: min(3vw, 3vh);
+}
+
+.not-found a {
+    color: rgb(234, 51, 35);
+}
+
+.not-found {
+    color: #fff;
+    text-align: center;
+    margin: 5rem;
+}

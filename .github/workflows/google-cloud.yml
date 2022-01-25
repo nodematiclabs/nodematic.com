@@ -24,3 +24,4 @@ jobs:
       working-directory: ./site
       run: |
         gsutil cp -r . gs://nodematic.com
+        gsutil web set -m index.html -e 404.html gs://nodematic.com
